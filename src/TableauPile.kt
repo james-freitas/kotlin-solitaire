@@ -21,7 +21,7 @@ class TableauPile(val cards: MutableList<Card> = mutableListOf()) {
 
     fun removeCards(tappedIndex: Int) {
         for (i in tappedIndex..cards.lastIndex) {
-            cards.removeAt(i)
+            cards.removeAt(tappedIndex)
         }
         if (cards.size > 0) {
             cards.last().faceUp = true
