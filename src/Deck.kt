@@ -6,6 +6,7 @@ class Deck {
 
     fun reset() {
         cardsInDeck = cards.toMutableList()
+        cardsInDeck.forEach { it.faceUp = false }
         cardsInDeck.shuffle()
     }
 

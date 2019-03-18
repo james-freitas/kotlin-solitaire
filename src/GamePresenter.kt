@@ -1,4 +1,4 @@
-class GamePresenter {
+object GamePresenter {
 
     var view: GameView? = null
 
