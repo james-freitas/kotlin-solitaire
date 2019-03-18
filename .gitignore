@@ -3,3 +3,6 @@
 
 /out*
 out/*
+
+out/production/Solitaire/AppKt.class
+out/production/Solitaire/META-INF/Solitaire.kotlin_module

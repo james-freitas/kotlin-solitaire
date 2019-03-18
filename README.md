@@ -18,3 +18,9 @@ https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/sub-list.h
 https://kotlinlang.org/docs/reference/object-declarations.html#object-declarations
 https://kotlinlang.org/docs/reference/interfaces.html
 
+https://kotlinlang.org/docs/reference/null-safety.html
+
+https://kotlinlang.org/docs/reference/control-flow.html#if-expression
+https://en.wikipedia.org/wiki/Playing_cards_in_Unicode
+
+https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.text/pad-end.html

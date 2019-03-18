@@ -82,8 +82,7 @@ object GameModel {
         }
         return false
     }
-}
 
-fun String.isLongerThan5(): Boolean {
-    return this.length > 5
+    fun debugPrint() {
+    }
 }
