@@ -1,8 +1,35 @@
 ### Solitaire game in Kotlin
 
+https://kotlinlang.org/docs/reference/functions.html
+https://kotlinlang.org/
+https://kotlinlang.org/docs/reference/classes.html
+https://kotlinlang.org/docs/reference/properties.html
+
+https://kotlinlang.org/docs/reference/classes.html#constructors
+https://kotlinlang.org/docs/reference/basic-types.html#arrays
+
+https://kotlinlang.org/docs/reference/control-flow.html#when-expression
+https://kotlinlang.org/docs/reference/lambdas.html#anonymous-functions
+
+https://kotlinlang.org/docs/reference/lambdas.html#lambda-expression-syntax
+https://kotlinlang.org/docs/reference/collections.html
+
+https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/to-mutable-list.html
+https://kotlinlang.org/docs/reference/collections.html
+
+https://kotlinlang.org/docs/reference/object-declarations.html#companion-objects
+https://kotlinlang.org/docs/reference/visibility-modifiers.html#packages
+https://kotlinlang.org/docs/reference/functions.html#function-scope
+
+
 https://kotlinlang.org/docs/reference/control-flow.html#for-loops
 https://kotlinlang.org/docs/reference/ranges.html
 https://kotlinlang.org/docs/reference/basic-types.html#arrays
+
+
+https://teamtreehouse.com/library/testing-in-android
+
+https://kotlinlang.org/docs/reference/data-classes.html
 
 https://kotlinlang.org/docs/reference/extensions.html#extensions
 https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/for-each.html
